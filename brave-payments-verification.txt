@@ -1,4 +1,4 @@
 This is a Brave Payments publisher verification file.
 
-Domain: github.com
+Domain: GeetaSarvadnya.github.io
 Token: 09dbc5b1271772bd8b5dc6a3dde8737aabede681ea52dcff4465c1d226092012
